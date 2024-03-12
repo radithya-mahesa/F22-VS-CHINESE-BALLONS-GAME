@@ -9,7 +9,7 @@ Anggota Kelompok:- Nurdiansah
 ##############################
 ##         Cara bermain     ##
 ##############################
-klik "F5" untuk run debug/play gamenya
+klik "F5" untuk run debug/play gamenya (VS Code)
 key right arrow "→" untuk ke kanan
 key left arrow  "←" untuk ke kiri
 key [space] untuk menembak
