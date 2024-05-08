@@ -16,3 +16,4 @@ key [space] untuk menembak
 
 
 SELAMAT MENCOBA
+note: pygame
